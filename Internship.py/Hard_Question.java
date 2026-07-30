@@ -14,7 +14,7 @@ public class Hard_Question {
             return e ;
      }
 
-    static int OrderAgnostic_binarySearch(int arr[], int s, int e,int target){
+    static int OrderAgno_binarySearch(int arr[], int s, int e,int target){
 
       boolean order = arr[s]<arr[e] ;
 
