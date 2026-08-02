@@ -8,6 +8,6 @@ public class bitw {
     int e = a ^ b ;// 01 --> 1
     int f = ~a; //11111111 11111111 11111111 11111101 -->-3
  
-    System.out.println(c + " , "+ d + " , "+  e + " ," + f) ;
+    System.out.println(c + " , "+ d + " , "+  f + " ," + e) ;
  } 
 }
